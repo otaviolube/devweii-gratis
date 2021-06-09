@@ -1,3 +1,3 @@
-function main(){
+const main = () => {
     console.log('teste');
 }
