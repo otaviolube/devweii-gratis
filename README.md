@@ -6,3 +6,4 @@ Esta aplicação foi desevolvida para testes na aula de **Desenvolvimento de Apl
 1. Trabalhar com repositórios GIT colaborativamente
 2. Github Actions
 3. CI/CD
+4. Testes
